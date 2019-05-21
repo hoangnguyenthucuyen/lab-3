@@ -1,0 +1,6 @@
+No; Product_Name; Price; Quantity
+1; Headphones; 1549; 53
+2; Pedometer; 1999; 17
+3; Recorder; 2099; 6
+4; Television; 4000; 5
+5; Earphones; 3000; 15
